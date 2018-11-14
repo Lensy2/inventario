@@ -30,6 +30,6 @@ if($fecha===$fecha2){
         }
 		
 }else{
-	echo "La fecha ngresada, debe ser igual a la fecha actual";
+	echo "La fecha ingresada, debe ser igual a la fecha actual";
 }
 ?>
